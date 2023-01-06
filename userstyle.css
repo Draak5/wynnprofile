@@ -1,0 +1,90 @@
+body {
+    background-color: #555555;
+    color: #000000;
+    
+    font-size: 11pt;
+    font-family: Arial,san-serif;
+}
+
+
+#manual {
+    background-color: #b69365;
+    border-style: solid;
+    border-color: #9c805a;
+    border-radius: 10px;
+    overflow: auto;
+}
+#manual h1 {
+    margin: 5px;
+}
+
+.input-card {
+    background-color: #a88c66;
+    border-style: solid;
+    border-color: #9c805a;
+    border-radius: 10px;
+
+    
+    margin: 5px;
+    padding: 5px;
+
+    float:left;
+}
+
+.input-card h1 {
+    margin: 0px;
+    border: 0px;
+    margin-bottom: 5px;
+    border-bottom: 1px;
+    font-size: 15pt;
+    border-color: #7e7d7d;
+    border-style: solid;
+}
+
+.input-card p {
+    margin: 0px;
+
+    border: 0px;
+    margin-bottom: 2px;
+    padding-left: 5px;
+    border-left: 1px;
+    border-color: #ffffff;
+    border-style: solid;
+}
+
+
+
+.character-card {
+    background-color: #b69365;
+    border-style: solid;
+    border-color: #9c805a;
+    border-radius: 10px;
+
+    width: 450px;
+    float: left;
+    margin: 5px;
+    padding: 5px;
+}
+
+.character-card h1 {
+    margin: 0px;
+    border: 0px;
+}
+
+.character-card p {
+    margin: 0px;
+
+    border: 0px;
+    margin-bottom: 2px;
+    padding-left: 5px;
+    border-left: 1px;
+    border-color: #ffffff;
+    border-style: solid;
+}
+
+.character-card .progress-bar {
+    height: 5px;
+    background-color: rgb(64, 223, 58);
+    margin-bottom: 2px;
+    
+}
